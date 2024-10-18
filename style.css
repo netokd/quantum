@@ -169,11 +169,8 @@ body {
     /* Adicione aqui a estilização específica para telas de até 390px */
     body {
         /* overflow: hidden; */
-        max-width: 425px;
 
-        & img{
-            max-width: 425px;
-        }
+        
 
     }
 
@@ -264,7 +261,7 @@ body {
         margin-top: 2rem;
         margin-bottom: 2rem;
         text-align: center;
-        max-width: 425px;
+        /* max-width: 425px; */
 
         & .hero-content {
             display: flex;
@@ -276,12 +273,12 @@ body {
         }
 
         & .hero-img{
-            max-width: 99%
+            max-width: 100%
         }
     }
 
     .services {
-        max-width: 425px;
+        /* max-width: 425px; */
         margin-top: 12rem;
         display: flex;
         flex-direction: column;
@@ -358,7 +355,7 @@ body {
 
     .aboutus {
         margin-top: 1rem;
-        max-width: 425px;
+        /* max-width: 425px; */
 
         & h1 {
             font-size: 2.5rem;
@@ -427,7 +424,7 @@ body {
 
     .contact{
         margin-top: 1rem;
-        max-width: 425px;
+        /* max-width: 425px; */
 
         & h1 {
             font-size: 2rem;
