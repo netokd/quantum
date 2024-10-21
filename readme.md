@@ -2,6 +2,8 @@
 
 A ideia é usar esse site para desenvolver uma landpage responsiva, que fiquei devendo nos meus projetos anteriores, agora fiz uma abordagem diferente, onde iniciei pelo layout mobile, e agora apos conclui iniciarei o layout desktop para telas maiores.
 
+Finalizado a estilização em desktop, porem sei que ainda tem muito a otimizar, algumas partes duplicadas para mobile e desktop, o problema e entender melhor e saber o que posso deixar na parte geral e o que devo especificar para cada tamanho de tela, agora é estudar
+
 
 ## Quantum - Acelerando o Futuro
 
